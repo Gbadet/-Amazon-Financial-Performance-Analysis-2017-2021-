@@ -31,8 +31,7 @@ The project focuses on understanding Amazon’s:
 ## 🛠 Tools Used
 
 - Excel – Data cleanup and transformation  
-- Power BI – Dashboard creation & financial modeling  
-- SQL – Supporting data manipulations (if applicable)
+- Power BI – Dashboard creation & financial modeling
 
 ---
 
